@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EatBone.cs">
+    <Files>
+      <File FileName="Assets\Scripts\EatBone.cs" Line="26" Column="1" />
+      <File FileName="Assets\Scripts\FanAir.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\bubMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\touch.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BubGenrator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EatBone.cs" Line="22" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
