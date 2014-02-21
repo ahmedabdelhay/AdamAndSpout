@@ -1,0 +1,14 @@
+0-please don't violate this rules this for our favour and for seek of making code when it is bigger 
+, violation for this code will decrease our performance and making your code unacceptable 
+
+1-the naming convention to be followed in scripting:
+fields should start with small letter
+methods should start with capital letters
+eg.: float rndX;
+void GenerateBubble(){}
+
+2-all work at his branch no one work for master 
+3-code must be simple documented variable and functions and commit must be discribed with the changes 
+4-after you finsh your part pull request only the part you worked for 
+5-reivew for the code before accept it will be by the 2 others 
+6- as soon as possible we will make production pranch the most updated version for the market will contain the MVP  
