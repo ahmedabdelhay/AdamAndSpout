@@ -9,6 +9,7 @@ void GenerateBubble(){}
 
 2-all work at his branch no one work for master 
 3-code must be simple documented variable and functions and commit must be discribed with the changes 
+3.1-you must commit every samll change as large commit cause a lot of problems , large ones will not be accepted
 4-after you finsh your part pull request only the part you worked for 
-5-reivew for the code before accept it will be by the 2 others 
+5-reivew of the code before accept it will be by the 2 others .
 6- as soon as possible we will make production pranch the most updated version for the market will contain the MVP  
